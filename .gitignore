@@ -1,0 +1,13 @@
+/.apt_generated/
+/.settings/
+/.classpath
+/.factorypath
+/.project
+/build/
+/node_modules/
+/package-lock.json
+/package.json
+/.scannerwork
+/.idea
+/sonar-project.properties
+/TATAAIA_SO.iml
